@@ -1,28 +1,18 @@
-## 🧠 Modelo de Aprendizado Profundo para Reconhecimento de Letras
+## 🧠 Deep Learning Model for Letter Recognition
 
-Este projeto parece envolver um modelo de aprendizado profundo para reconhecimento de letras. A estrutura sugere um projeto simples, possivelmente voltado para demonstração ou aprendizado.
+This project seems to involve a deep learning model for letter recognition. The structure suggests a simple project, possibly aimed at demonstration or learning.
 
-## 💻 Tecnologias Utilizadas:
+## 💻 Technologies Used:
 
 - Python
-- Keras/TensorFlow 
-- Jupyter Notebook 
+- Keras/TensorFlow
+- Jupyter Notebook
 
-## 📂 Arquitetura do Projeto:
+## 📂 Project Architecture:
 
-### 📄 Arquivos Principais:
+### 📄 Main Files:
 
-- `Deep_learning_letras.ipynb` 📒: Jupyter Notebook contendo, provavelmente, o código de treinamento, avaliação e possivelmente demonstração do modelo.
-- `Readme.md` 📄: Este arquivo README.
-- `saved_model/` 💾: Contém o modelo salvo.
-    - `letter_model.keras`: Modelo salvo no formato Keras.
-
-### 📁 .git/:
-
-Pasta de controle de versão do Git. Contém informações sobre o histórico do projeto, commits, branches, etc. (Detalhes no próximo item).
-
-
-
-
-
-
+- `Deep_learning_letras.ipynb` 📒: Jupyter Notebook containing, probably, the training code, evaluation, and possibly a demonstration of the model.
+- `Readme.md` 📄: This README file.
+- `saved_model/` 💾: Contains the saved model.
+    - `letter_model.keras`: Model saved in the Keras format.
