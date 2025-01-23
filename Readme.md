@@ -1,19 +1,28 @@
-## 🧠 Handwritten Letter Recognition with Deep Learning 
+## 🧠 Modelo de Aprendizado Profundo para Reconhecimento de Letras
 
-This project uses Deep Learning for handwritten letter recognition. The model is based on Keras/TensorFlow, and the project includes training data, a Jupyter notebook (likely for experimentation and training), and the model saved in different formats.
+Este projeto parece envolver um modelo de aprendizado profundo para reconhecimento de letras. A estrutura sugere um projeto simples, possivelmente voltado para demonstração ou aprendizado.
 
-## 💻 Technologies Used
+## 💻 Tecnologias Utilizadas:
 
 - Python
-- Jupyter Notebook (IPython)
-- Keras/TensorFlow
-- Deep Learning
+- Keras/TensorFlow 
+- Jupyter Notebook 
 
-## 📂 Project Architecture
+## 📂 Arquitetura do Projeto:
 
-### 📄 Main Files
+### 📄 Arquivos Principais:
 
-- `Deep_learning_letras.ipynb` 🧠: Jupyter notebook containing the code for training, evaluation, and visualization of the Deep Learning model.
-- `handwritten_letters.csv` 📊: CSV file containing the training data for handwritten letter recognition.
-- `letters_model.h5` 💾 & `letters_model.keras` 💾: Trained model saved in different formats (H5 and Keras). The redundancy may indicate different development stages or loading options.
-- `archive.zip` 📦: Compressed file containing the images to be used.
+- `Deep_learning_letras.ipynb` 📒: Jupyter Notebook contendo, provavelmente, o código de treinamento, avaliação e possivelmente demonstração do modelo.
+- `Readme.md` 📄: Este arquivo README.
+- `saved_model/` 💾: Contém o modelo salvo.
+    - `letter_model.keras`: Modelo salvo no formato Keras.
+
+### 📁 .git/:
+
+Pasta de controle de versão do Git. Contém informações sobre o histórico do projeto, commits, branches, etc. (Detalhes no próximo item).
+
+
+
+
+
+
