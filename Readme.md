@@ -2,6 +2,8 @@
 
 This project seems to involve a deep learning model for letter recognition. The structure suggests a simple project, possibly aimed at demonstration or learning.
 
+Link for the streamlit project -> https://github.com/JonatasMSS/handwritter_identifier
+
 ## 💻 Technologies Used:
 
 - Python
